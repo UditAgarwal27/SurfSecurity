@@ -14,11 +14,11 @@ METHOD TO CONFIGURE PROJECT:
 6. Open Command Prompt
 7. CD TO root folder(SSP)
 8 Enter the following commands -->
-  8.1 pip install virtualenv
-  8.2 virtualenv ssp_env
-  8.3 ssp_env\Scripts\activate
+  A. pip install virtualenv
+  B. virtualenv ssp_env
+  C. ssp_env\Scripts\activate
 --> Virtual environment is created and run.
-  8.4 pip install requirements.txt
+  D. pip install requirements.txt
 (do not close command prompt)
 
 CREATING THE DATABASE REQUIRED:
@@ -33,9 +33,9 @@ CREATING THE DATABASE REQUIRED:
 RUN THE PROJECT
 1. Open the command project. (Virtual environment should be running and the curent folder open should be root folder(ssp))
 2. Run the following commands -->
-  2.1 python manage.py makemigrations
-  2.2 python manage.py migrate
-  2.3 python manage.py runserver
+  A. python manage.py makemigrations
+  B. python manage.py migrate
+  C. python manage.py runserver
 3. Open browser and enter the url --> localhost:8000/login
 
 <<- THIS IS ONLY DEMO. CERTAIN VERIFICATION AND AUTHENTICATION SCEHEMES ARE STILL NEEDED TO BE DONE -->
