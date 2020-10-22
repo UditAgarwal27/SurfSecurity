@@ -38,6 +38,6 @@ RUN THE PROJECT
   C. python manage.py runserver
 3. Open browser and enter the url --> localhost:8000/login
 
-<- THIS IS ONLY DEMO. CERTAIN VERIFICATION AND AUTHENTICATION SCEHEMES ARE STILL NEEDED TO BE DONE -->
+<- THIS IS ONLY DEMO. CERTAIN VERIFICATION AND AUTHENTICATION SCEHEMES ARE STILL NEEDED TO BE DONE --> <br>
 << A word file is given in the repo explaining the Algorithm . Only for Educational Purpose >>
  
